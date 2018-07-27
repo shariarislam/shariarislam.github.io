@@ -1,17 +1,16 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: shariarislam's | blog
+description: personal blog
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://streetturtle.github.io
+url: https://shariarislam.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+#baseurl: '/jekyll-clean-dark'
 
-author: Pavel Makhov
-copyright: 2015-2017
+
 
 share:
   facebook: true
